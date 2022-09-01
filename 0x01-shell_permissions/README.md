@@ -5,3 +5,4 @@ Task 3: a script to change the owner of the file hello to betty(chown hello bett
 Task 4: a script to create an empty file hello(touch hello)
 Task 5: a script to add execute permissions to the owner of hello file(chmod u+x hello)
 Task 6: A script to add execute permissions to owner and group owner and read permission to other users to hello file(chmod u+x,g+x,o+r)
+Task 7: A script to add permissions to owners, group owner and other users to hello file(chmod ugo+x)
