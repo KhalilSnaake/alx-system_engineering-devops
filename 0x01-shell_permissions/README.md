@@ -7,3 +7,4 @@ Task 5: a script to add execute permissions to the owner of hello file(chmod u+x
 Task 6: A script to add execute permissions to owner and group owner and read permission to other users to hello file(chmod u+x,g+x,o+r)
 Task 7: A script to add permissions to owners, group owner and other users to hello file(chmod ugo+x)
 Task 8: A script to sets permissions to hello file owner:no permission, group:no, other:allpermissions. NB James Bond is always 007(chmod 007 hello)
+Task 9: A script to set the mode of hello file to -rwxr-x-wx
