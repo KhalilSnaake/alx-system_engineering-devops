@@ -3,3 +3,4 @@ Task 1: write a scriptthat prints the effective username of the current user(id 
 Task 2: a script to print all the groups of current user(groups)
 Task 3: a script to change the owner of the file hello to betty(chown hello betty)
 Task 4: a script to create an empty file hello(touch hello)
+Task 5: a script to add execute permissions to the owner of hello file(chmod u+x hello)
