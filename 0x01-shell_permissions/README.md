@@ -15,3 +15,4 @@ Task 13: Write a script that changes the group owner to school for the file hell
 Task 14: Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.(chown -hR vincent:staff .)
 Task 15: Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.(chown -h vincent:staff _hello)
 Task 16: Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.(chown --from=guillaume betty hello)
+Task 17: write a script that will play the StarWars IV episode in the terminal.(telnet command)
