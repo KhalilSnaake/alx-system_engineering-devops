@@ -10,3 +10,4 @@ Task 8: A script to sets permissions to hello file owner:no permission, group:no
 Task 9: A script to set the mode of hello file to -rwxr-x-wx(chmod 753)
 Task 10: A script to set hello file mode same with olleh file (chmod --reference=olleh hello)
 Task 11:Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.(chmod -R ugo+X .)
+Task 12: Create a script that creates a directory called my_dir with permissions 751 in the working directory.(mkdir -m my_dir)
